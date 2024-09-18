@@ -1,0 +1,1 @@
+I included a PDF file and an IPYNB file of the project so that if the IPYNB file can't be read on your device you can read the PDF, but the IPYNB file looks a lot nicer so preview that if you are able to.
